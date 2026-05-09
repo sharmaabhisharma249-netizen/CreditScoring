@@ -1,1 +1,1 @@
-# CodeAlpha_CreditScoring
+# CodeAlpha Credit Scoring
