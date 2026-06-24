@@ -1,4 +1,4 @@
-# CodeAlpha_CreditScoring
+# CreditScoring
 
 ## Credit Scoring Model using Machine Learning
 
